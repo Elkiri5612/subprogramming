@@ -1,0 +1,4 @@
+repository "Star Platina_Journey of KSB@tnqlsk9519@cloud"
+  path "/"
+    br "/main"
+    co "/main"
